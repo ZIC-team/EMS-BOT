@@ -1,0 +1,29 @@
+{
+  "custom_var": "value",
+  "another_var": 123,
+  "request_channel_id": 1390769648722772178,
+  "icc_vacation_channel_id": 1390769698156843161,
+  "oc_vacation_channel_id": 1390769740477366282,
+  "break_channel_id": 1390769778586812536,
+  "mention_map": {
+    "Fire Departament": [
+      "АГВ FD",
+      "Зам.Зав FD",
+      "Заведующий FD"
+    ],
+    "Paramedic": [
+      "АГВ PM",
+      "Зам.Зав PM",
+      "Заведующий PM"
+    ],
+    "Зам.Зав FD": [
+      "Заведующий FD",
+      "АГВ FD"
+    ],
+    "DI": [
+      "АГВ DI",
+      "Зам.Зав DI",
+      "Заведующий DI"
+    ]
+  }
+}
